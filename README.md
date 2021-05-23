@@ -3,7 +3,6 @@
 Welcome to my page!<br />
 I'm Kiran, fullstack developer from India, I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
-<br />
 
 - ⚛️ Building a cool web app for [investdex.io](https://investdex.io/)
 

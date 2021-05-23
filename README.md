@@ -33,7 +33,7 @@ I'm Kiran, fullstack developer from India, I love exploring new tech stack 💻 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_kiranbhalerao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_kiranbhalerao" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kiranbhalerao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiranbhalerao" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kiran-bhalerao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiranbhalerao" height="30" width="40" /></a>
 <a href="https://dribbble.com/kiranbhalerao11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kiranbhalerao11" height="30" width="40" /></a>
 </p>
 

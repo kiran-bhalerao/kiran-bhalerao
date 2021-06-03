@@ -10,8 +10,6 @@ I'm Kiran, fullstack developer from India, I love exploring new tech stack 💻 
 
 - 📄 Checkout my [Resume](https://drive.google.com/open?id=1aU53eBQkluL6VmeWTUY1s4IKdA2havmE)
 
-- 💬 Ask me about **React, Flutter, Node and Golang**
-
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
 

@@ -6,7 +6,7 @@ I'm Kiran, fullstack developer from India, I love exploring new tech stack 💻 
 
 - ⚛️ Building a cool web app for [investdex.io](https://investdex.io/)
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning/working **Blockchain**
 
 - 📄 Checkout my [Resume](https://drive.google.com/open?id=1aU53eBQkluL6VmeWTUY1s4IKdA2havmE)
 

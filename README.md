@@ -1,7 +1,8 @@
 # Hi there! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="29px">
 
 Welcome to my page!<br />
-I'm Kiran, fullstack developer from India, I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+I'm Kiran, anystack developer from India, I spent most of my time on Vscode, Github and Stack Overflow.
+It's weird but sometimes i prefer writing code over watching netflix.
 
 
 - ⚛️ Building a cool web app for [investdex.io](https://investdex.io/)

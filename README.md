@@ -7,7 +7,7 @@ It's weird but sometimes i prefer writing code over watching netflix.
 
 - ⚛️ Building a cool web app for [investdex.io](https://investdex.io/)
 
-- 🌱 I’m currently learning/working on **Blockchain**
+- 🌱 I’m currently learning **Web 3.0**
 
 - 📄 Checkout my [Resume](https://drive.google.com/open?id=1aU53eBQkluL6VmeWTUY1s4IKdA2havmE)
 
